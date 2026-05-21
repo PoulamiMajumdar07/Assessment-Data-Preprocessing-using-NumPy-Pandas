@@ -48,4 +48,5 @@
 
 ### Run the Project
 
-Install libraries:pip install numpy pandas
+Install libraries:
+pip install numpy pandas
