@@ -1,0 +1,12 @@
+student_id,name,gender,math_score,science_score,attendance,exam_date
+101,Aman,Male,78.0,82.0,89,2026-01-15
+102,Riya,Female,85.0,79.0,92,2026/01/16
+103,Kabir,Male,92.0,95.0,67,15-01-2026
+104,Sneha,Female,,68.0,74,2026-01-18
+105,Arjun,Male,66.0,,80%,2026-01-19
+106,Priya,Female,74.0,73.0,95,2026/01/20
+107,Rahul,Male,150.0,160.0,45,2026-01-21
+108,Neha,Female,88.0,91.0,88,21-01-2026
+109,Vikram,Male,59.0,60.0,,2026-01-23
+110,Sara,Female,81.0,84.0,91,2026-01-24
+110,Sara,Female,81.0,84.0,91,2026-01-24
