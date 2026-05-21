@@ -50,4 +50,4 @@
 
 Install libraries:
 
-pip install numpy pandas
+-pip install numpy pandas
